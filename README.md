@@ -45,7 +45,6 @@
 
 - 🧱 **LEGO Set Finder** – Search and filter LEGO sets by name or number using CSV & React  
 - 📊 **Excel Visualizer** – Frontend-only tool to load & plot data from Excel with Recharts  
-- 🚦 **Real-Time Traffic Idea (WIP)** – IPD project on adaptive signal routing & emergency vehicle priority  
 
 > More projects coming soon...
 
@@ -55,7 +54,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anay-shah-5880aa264/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Anayshah13)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](https://anayshah10@email.com)
 
 ---
 
