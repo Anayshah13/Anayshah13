@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anayshah13.vercel.app">
+  <a href="https://anay13.tech">
     <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" alt="Portfolio"/>
   </a>
   <a href="https://drive.google.com/drive/folders/1gJvl1SqHK2fwI6A0B49QJwXaheUe04Ly">
@@ -21,19 +21,19 @@
 > ### **20 y/o Engineer @ Dwarkadas J. Sanghvi College, Mumbai**
 
 ### 🟨 01 — WHO I AM
-**Engineering student, driven by curiosity.** Exploring Full Stack, UI/UX, AI/ML, and Blockchain.
+**Engineering student, driven by curiosity and a passion for building cool stuff.** Exploring Full Stack, UI/UX, AI/ML, and Blockchain.
 
-### 🟪 02 — BEYOND CODE
-**Casual sports, art, crafts, toys, and pop culture.** I like understanding how things *feel*, not just how they work.
+### 🟦 02 — BEYOND CODE
+**Beyond Coding, I'm an avid enjoyer of casual sports, art, crafts, toys, and all sorts of pop culture & cartoons. ✳**  I like understanding how things feel, not just how they work.
 
-### 🟥 03 — BUILDER MINDSET
+### 🟩 03 — BUILDER MINDSET
 **Growing up surrounded by techies, I embraced the chaos and dove into software.** I panic over the smallest details nobody else would ever notice — and I love it.
 
 ---
 
 # 🧠 QUOTES I BUILD BY
 
-> *"Design is not just what it looks like and feels like. Design is how it works."* > **— Steve Jobs**
+> *"The only way to do great work is to love what you do."* > **— Steve Jobs**
 
 > *"I have no special talent. I am only passionately curious."* > **— Albert Einstein**
 
@@ -41,10 +41,10 @@
 
 ---
 
-## 🌐 PORTFOLIO • [anayshah13.vercel.app](https://anayshah13.vercel.app)
+## 🌐 PORTFOLIO • [anay13.tech](https://anay13.tech)
 
 <p align="center">
-  <a href="https://anayshah13.vercel.app" target="_blank">
+  <a href="https://anay13.tech" target="_blank">
     <img src="image.png" width="100%" alt="Anay Shah Portfolio" style="border: 4px solid #000; box-shadow: 8px 8px 0px #000;" />
   </a>
 </p>
@@ -89,7 +89,7 @@
 ## 🏆 TROPHY ROOM & COMMAND POSTS
 
 ### 🎖️ TOP ACHIEVEMENTS
-* 🥉 **3rd Place** — Rift Rewind Hackathon (AWS x Riot Games)
+* 🥉 **Hidden Gem Detector Prize Winner ($1000)** — Rift Rewind Hackathon (AWS x Riot Games)
 * 🥉 **2nd Runner-Up** — SPIT Frontend Hackathon
 * 🏅 **Top 10 Finisher** — SPIT CodeHunt & CodeBusters
 * 🧠 **280+** DSA Problems conquered on LeetCode & Codeforces
@@ -97,7 +97,7 @@
 ### 🚀 COMMAND POSTS & ORGS
 * 🪐 **DJS Antariksh (Mars Rover Team):** Robotics Software & UI Developer
 * 💻 **DJS CodeStars:** Technical Co-Com & Contest Problem Setter
-* 🌐 **DJCSI:** Technical Web Co-Com, maintaining official digital ecosystems
+* 🌐 **DJSCSI:** Technical Web Co-Com, maintaining official digital ecosystems
 
 ---
 
