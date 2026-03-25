@@ -1,19 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=180&text=ANAY%20SHAH&fontColor=000000&fontSize=80&fontAlign=center&fontAlignY=45&desc=FRONTEND%20DEVELOPER%20%7C%20DATA%20VISUALIZER&descAlignY=75&descAlign=center&stroke=000000&strokeWidth=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=250&text=ANAY%20SHAH&fontColor=000000&fontSize=70&fontAlign=center&fontAlignY=35&desc=FRONTEND%20DEVELOPER%20%7C%20DATA%20VISUALIZER&descAlignY=55&descAlign=center&stroke=000000&strokeWidth=4&animation=twinkling" width="100%"/>
 </p>
 
-> ### 👾 ABOUT ME
-> **Building high-impact interfaces with React & Next.js, manipulating 3D space with Three.js & GSAP, and engineering robotics software for the Mars Rover.** > Welcome to my digital workshop.
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1gJvl1SqHK2fwI6A0B49QJwXaheUe04Ly" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-000000?style=for-the-badge&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://anayshah13.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-## 🌐 PORTFOLIO • [anayshah13.vercel.app](https://anayshah13.vercel.app)
+## 👾 ABOUT ME
 
-<p align="center">
-  <a href="https://anayshah13.vercel.app" target="_blank">
-    <img src="image.png" width="100%" alt="Anay Shah Portfolio" style="border: 4px solid #000; box-shadow: 8px 8px 0px #000;" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td bgcolor="#E2F0CB" width="100%" style="padding: 20px; border: 3px solid #000;">
+      <b style="font-family: monospace; font-size: 1.2em;">01</b><br><br>
+      <span style="font-family: monospace; font-size: 1.1em; color: #000;">I'm a 20-year-old sophomore at Dwarkadas J. Sanghvi College of Engineering, Mumbai, pursuing a B.Tech in Information Technology. Highly motivated to learn FullStack Dev, UI/UX, AI/ML and Blockchain.</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td bgcolor="#B5BCED" width="100%" style="padding: 20px; border: 3px solid #000;">
+      <b style="font-family: monospace; font-size: 1.2em; color: #000;">02 &nbsp; BEYOND CODE</b><br><br>
+      <span style="font-family: monospace; font-size: 1.1em; color: #000;">Beyond Coding, I'm an avid enjoyer of casual sports, art, crafts, toys, and all sorts of pop culture & cartoons. *</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td bgcolor="#FF6961" width="100%" style="padding: 20px; border: 3px solid #000;">
+      <b style="font-family: monospace; font-size: 1.2em; color: #000;">03 &nbsp; ORIGIN</b><br><br>
+      <span style="font-family: monospace; font-size: 1.1em; color: #000;">Growing up surrounded by techies, I embraced the chaos and dove into software. I panic over the smallest details nobody else would ever notice - and I love it.</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,7 +98,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anayshah13&show_icons=true&bg_color=FDF2B5&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&border_radius=0&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anayshah13&layout=compact&bg_color=FF90E8&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&border_radius=0&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anayshah13&theme=git&hide_border=false&background=FF90E8&border=000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border_radius=0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anayshah13&layout=compact&bg_color=BEE7E8&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&border_radius=0&hide_border=false" width="48%" />
 </p>
 
 ---
@@ -79,11 +107,15 @@
 ## 🧊 CONTRIBUTION GRID
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anayshah13&bg_color=BEE7E8&color=000000&line=000000&point=FF5722&area=true&hide_border=false&border_color=000000&border_radius=0" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anayshah13&bg_color=E2F0CB&color=000000&line=000000&point=FF5722&area=true&hide_border=false&border_color=000000&border_radius=0" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anayshah13/Anayshah13/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anayshah13/Anayshah13/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anayshah13/Anayshah13/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
@@ -97,13 +129,13 @@
   <a href="https://www.linkedin.com/in/anay-shah-5880aa264/">
     <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="https://leetcode.com/u/your_id">
+  <a href="https://leetcode.com/u/Anayshah13">
     <img src="https://img.shields.io/badge/LeetCode-FDF2B5?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://codeforces.com/profile/your_id">
+  <a href="https://codeforces.com/profile/anay13bestie">
     <img src="https://img.shields.io/badge/Codeforces-FF5722?style=for-the-badge&logo=codeforces&logoColor=black"/>
   </a>
-  <a href="https://www.codechef.com/users/your_id">
+  <a href="https://www.codechef.com/users/anay13bestie">
     <img src="https://img.shields.io/badge/CodeChef-A3E635?style=for-the-badge&logo=codechef&logoColor=black"/>
   </a>
 </p>
