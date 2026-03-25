@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=180&text=ANAY%20SHAH&fontColor=ffffff&fontSize=80&fontAlign=center&fontAlignY=45&desc=FRONTEND%20DEVELOPER%20%7C%20DATA%20VISUALIZER&descAlignY=75&descAlign=center&stroke=000000&strokeWidth=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=180&text=ANAY%20SHAH&fontColor=000000&fontSize=80&fontAlign=center&fontAlignY=45&desc=FRONTEND%20DEVELOPER%20%7C%20DATA%20VISUALIZER&descAlignY=75&descAlign=center&stroke=000000&strokeWidth=4" width="100%"/>
 </p>
 
 > ### 👾 ABOUT ME
@@ -80,10 +80,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anayshah13&bg_color=BEE7E8&color=000000&line=000000&point=FF5722&area=true&hide_border=false&border_color=000000&border_radius=0" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/000000/Anayshah13" width="100%" alt="Anay's Github Chart" />
 </p>
 
 <p align="center">
