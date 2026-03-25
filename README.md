@@ -2,24 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFCC00&height=180&text=ANAY%20SHAH&fontColor=000000&fontSize=80&fontAlign=center&fontAlignY=45&desc=FRONTEND%20DEVELOPER%20%7C%20DATA%20VISUALIZER&descAlignY=75&descAlign=center&stroke=000000&strokeWidth=4" width="100%"/>
 </p>
 
-> ### 👾 ABOUT ME
-> **20 y/o Engineer @ Dwarkadas J. Sanghvi College, Mumbai** >
-
-**🟨 01 — WHO I AM** Engineering student, driven by curiosity.  
-Exploring Full Stack, UI/UX, AI/ML and Blockchain.
-
-**🟪 02 — BEYOND CODE** Casual sports, art, crafts, toys, and pop culture.  
-I like understanding how things *feel*, not just how they work.
-
-**🟥 03 — BUILDER MINDSET** Growing up surrounded by techies, I embraced the chaos and dove into software. I panic over the smallest details nobody else would ever notice — and I love it.
-
-**🟥 04 — QUOTES** 
-"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
-"I have no special talent. I am only passionately curious." — Albert Einstein
-"Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt." -Sun Tzu,The Art of War
-
----
-
 <p align="center">
   <a href="https://anayshah13.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" alt="Portfolio"/>
@@ -31,6 +13,31 @@ I like understanding how things *feel*, not just how they work.
     <img src="https://img.shields.io/badge/EMAIL-22D3EE?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" alt="Email"/>
   </a>
 </p>
+
+---
+
+# 👾 ABOUT ME
+
+> ### **20 y/o Engineer @ Dwarkadas J. Sanghvi College, Mumbai**
+
+### 🟨 01 — WHO I AM
+**Engineering student, driven by curiosity.** Exploring Full Stack, UI/UX, AI/ML, and Blockchain.
+
+### 🟪 02 — BEYOND CODE
+**Casual sports, art, crafts, toys, and pop culture.** I like understanding how things *feel*, not just how they work.
+
+### 🟥 03 — BUILDER MINDSET
+**Growing up surrounded by techies, I embraced the chaos and dove into software.** I panic over the smallest details nobody else would ever notice — and I love it.
+
+---
+
+# 🧠 QUOTES I BUILD BY
+
+> *"Design is not just what it looks like and feels like. Design is how it works."* > **— Steve Jobs**
+
+> *"I have no special talent. I am only passionately curious."* > **— Albert Einstein**
+
+> *"Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt."* > **— Sun Tzu, The Art of War**
 
 ---
 
@@ -81,16 +88,16 @@ I like understanding how things *feel*, not just how they work.
 
 ## 🏆 TROPHY ROOM & COMMAND POSTS
 
-> **🎖️ TOP ACHIEVEMENTS**
-> * 🥉 **3rd Place** — Rift Rewind Hackathon (AWS x Riot Games)
-> * 🥉 **2nd Runner-Up** — SPIT Frontend Hackathon
-> * 🏅 **Top 10 Finisher** — SPIT CodeHunt & CodeBusters
-> * 🧠 **280+** DSA Problems conquered on LeetCode & Codeforces
+### 🎖️ TOP ACHIEVEMENTS
+* 🥉 **3rd Place** — Rift Rewind Hackathon (AWS x Riot Games)
+* 🥉 **2nd Runner-Up** — SPIT Frontend Hackathon
+* 🏅 **Top 10 Finisher** — SPIT CodeHunt & CodeBusters
+* 🧠 **280+** DSA Problems conquered on LeetCode & Codeforces
 
-> **🚀 COMMAND POSTS & ORGS**
-> * 🪐 **DJS Antariksh (Mars Rover Team):** Robotics Software & UI Developer
-> * 💻 **DJS CodeStars:** Technical Co-Com & Contest Problem Setter
-> * 🌐 **DJCSI:** Technical Web Co-Com, maintaining official digital ecosystems
+### 🚀 COMMAND POSTS & ORGS
+* 🪐 **DJS Antariksh (Mars Rover Team):** Robotics Software & UI Developer
+* 💻 **DJS CodeStars:** Technical Co-Com & Contest Problem Setter
+* 🌐 **DJCSI:** Technical Web Co-Com, maintaining official digital ecosystems
 
 ---
 
@@ -110,7 +117,7 @@ I like understanding how things *feel*, not just how they work.
 </p>
 
 <p align="center">
-  <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
