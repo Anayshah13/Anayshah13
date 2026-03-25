@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" width="100%"/>
+  <img src="banner.png" width="100%" alt="Anay Shah Banner" />
 </p>
 
 <p align="center">
