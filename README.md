@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFCC00&height=180&text=ANAY%20SHAH&fontColor=000000&fontSize=80&fontAlign=center&fontAlignY=45&desc=FRONTEND%20DEVELOPER%20%7C%20DATA%20VISUALIZER&descAlignY=75&descAlign=center&stroke=000000&strokeWidth=4" width="100%"/>
+  <img src="image.png" width="100%"/>
 </p>
 
 <p align="center">
@@ -143,5 +143,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer"/>
 </p>
